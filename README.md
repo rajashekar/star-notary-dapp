@@ -14,8 +14,8 @@ truffle-hdwallet-provider ^1.0.17
 ```
 
 ## Token Details
-ERC-721 Token Name - Lynx
-ERC-721 Token Symbol - LYN
+ERC-721 Token Name - `Lynx` <br>
+ERC-721 Token Symbol - `LYN` <br>
 Token Address on the Rinkeby Network - https://rinkeby.etherscan.io/address/0x53f7e7c218dde7b1ded43c401096460129e03e05
 
 ## Dependencies
